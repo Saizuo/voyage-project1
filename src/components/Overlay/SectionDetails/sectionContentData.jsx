@@ -21,7 +21,7 @@ const sectionsContentData = [
     content: (
       <ul className="credits">
         <li>
-          <a href="https://www.pump.fun/board">Pump.Fun</a>
+          <a href="https://pump.fun/8zCF7cConjc9haM5MCVQr6F63oKQvqSfTnYMmCMypump">Pump.Fun</a>
         </li>
         <li>
           <a href="https://t.me/voyage43">Telegram</a>
