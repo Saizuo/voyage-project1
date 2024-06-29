@@ -24,10 +24,10 @@ const sectionsContentData = [
           <a href="https://www.pump.fun/board">Pump.Fun</a>
         </li>
         <li>
-          <a href="https://threejs-journey.com/">Telegram</a>
+          <a href="https://t.me/voyage43">Telegram</a>
         </li>
         <li>
-          <a href="https://x.com/43Voyage">Twitter</a>
+          <a href="https://x.com/voyage43sol">Twitter</a>
         </li>
         <li>
           <a href="https://dexscreener.com/">Dexscreener</a>
