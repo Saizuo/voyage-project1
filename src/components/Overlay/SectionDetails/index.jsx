@@ -114,7 +114,7 @@ const SectionDetails = () => {
                     onMouseLeave={() => updateCursorType("pointer")}
                     target="_blank"
                     className="section-btn"
-                    href="https://pump.fun/8zCF7cConjc9haM5MCVQr6F63oKQvqSfTnYMmCMypump"
+                    href="https://pump.fun/"
                   >
                     Pump.Fun <HiOutlineArrowRight />
                   </a>
